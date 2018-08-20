@@ -1,14 +1,5 @@
-@import "modules/_buttons";
+@import "modules/_reset.scss";
+@import "modules/_variables.scss";
+@import "bootstrap/_bootstrap.scss";
+@import "modules/_buttons.scss";
 
-body{
-  color: #000;
-  background-color: #ffaaaa;
-}
-
-body{
-  display: flex;
-  flex-direction: row;
-}
-p{
-  padding: 20px 30px;
-}
